@@ -11,3 +11,6 @@ wheels/
 
 # Environment variables / secrets
 .env
+
+# Saved vector index (rebuilt automatically)
+storage/
